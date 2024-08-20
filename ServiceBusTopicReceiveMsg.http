@@ -1,0 +1,6 @@
+@ServiceBusTopicReceiveMsg_HostAddress = http://localhost:5196
+
+GET {{ServiceBusTopicReceiveMsg_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
